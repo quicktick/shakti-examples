@@ -4,7 +4,8 @@ All based on: [2019.09.25 Shakti](https://anaconda.org/shaktidb/shakti/2019.09.2
 
 ## Pre Reading
 
-[Official Shakti Tutorial]()
+[Official Shakti Tutorial](https://web.archive.org/web/20190702220531/https://shakti.com/tutorial/)
+
 [Kparc Reference](https://github.com/kparc/ref/blob/master/src/md/index.md) [As a website](https://ref.kparc.io/)
 
 Running `\l` inside k gives you the changelog.
